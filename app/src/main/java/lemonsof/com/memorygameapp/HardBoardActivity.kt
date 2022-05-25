@@ -53,6 +53,7 @@ class HardBoardActivity : AppCompatActivity() {
             override fun onFinish() {
                 tv_hard_board_time.text = "00:00"
                 disableImages()
+                Toast.makeText(applicationContext, "Lo sentimos, has perdido.", Toast.LENGTH_LONG).show()
             }
         }
 
