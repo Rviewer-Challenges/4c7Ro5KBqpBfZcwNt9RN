@@ -1,5 +1,6 @@
-URL: https://lemonsof.com/ 
-https://lemonsof.com/static/JuegoParejaCartas.apk
+Mi web: https://lemonsof.com/ 
+
+App: https://lemonsof.com/static/JuegoParejaCartas.apk
 
 Some pictures: 
 ![Screen Shot 2022-05-24 at 19 51 18](https://user-images.githubusercontent.com/62317494/170162407-c6763cd3-1f6e-42d4-8c75-89ea07d47efd.png)
